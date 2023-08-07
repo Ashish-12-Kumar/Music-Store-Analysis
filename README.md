@@ -1,2 +1,2 @@
 # Music-Store-Analysis
-Analyzed the data and answer some questions using SQL.
+Analyze the data and answer some questions using SQL.
